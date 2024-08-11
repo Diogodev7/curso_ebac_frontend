@@ -7,3 +7,4 @@ Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
 - Tópico 1: ti ti ti 
 - Tópico 2: bla bla bla
 - Tópico 3: lero lero"# curso_ebac_frontend"  
+"# curso_ebac_frontend" 
